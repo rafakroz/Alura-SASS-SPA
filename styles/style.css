@@ -3,4 +3,17 @@ html, body {
   font-family: "Roboto", sans-serif;
 }
 
+nav {
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  padding: 1rem;
+}
+nav ul li a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
