@@ -14,6 +14,7 @@ nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
+  color: #513252;
 }
 
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
