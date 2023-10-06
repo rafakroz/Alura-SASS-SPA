@@ -16,5 +16,8 @@ nav ul li a {
   font-weight: bold;
   color: #513252;
 }
+nav ul li a:hover {
+  border-bottom: 2px solid #CA4E79;
+}
 
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
