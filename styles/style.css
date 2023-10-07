@@ -29,5 +29,19 @@ nav ul li a:hover {
   align-items: center;
   opacity: 0.9;
 }
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #FFC18E;
+  opacity: 0.9;
+  border-radius: 15px;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  color: #513252;
+}
+.banner .inner-banner h2 {
+  font-size: 1.5rem;
+  color: #CA4E79;
+}
 
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
