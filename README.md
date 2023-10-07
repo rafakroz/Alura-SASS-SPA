@@ -26,7 +26,7 @@ git branch
 
 Volte para a main:
 ```
-git switch main
+git checkout main
 ```
 
 Efetuar o merge da branch com a main:
