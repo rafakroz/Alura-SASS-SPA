@@ -44,4 +44,22 @@ nav ul li a:hover {
   color: #CA4E79;
 }
 
+#servicos {
+  margin: 80px;
+}
+#servicos h4 {
+  font-size: 1.2rem;
+  color: #CA4E79;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin: 1rem;
+}
+#servicos h3 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 80px;
+  font-weight: 300;
+}
+
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
