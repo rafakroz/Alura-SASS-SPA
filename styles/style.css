@@ -146,4 +146,16 @@ nav ul li a:hover {
   border-color: #FFC18E;
 }
 
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #513252;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #513252, #CA4E79, #FFC18E, #513252);
+}
+footer i {
+  color: red;
+}
+
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
