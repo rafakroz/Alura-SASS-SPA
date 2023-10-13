@@ -124,5 +124,26 @@ nav ul li a:hover {
   box-shadow: 1px 1px 8px 1px #513252;
   outline: none;
 }
+#cupom button {
+  text-transform: uppercase;
+  margin-top: 0.75rem;
+  outline: none;
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  background-color: #513252;
+  color: #CA4E79;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  border: 2px #513252;
+  border-radius: 35px;
+}
+#cupom button:hover {
+  color: #513252;
+  background-color: #CA4E79;
+  border-color: #FFC18E;
+}
 
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
