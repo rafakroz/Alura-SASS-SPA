@@ -104,5 +104,25 @@ nav ul li a:hover {
   margin: 2rem;
   font-size: 1.7647058824rem;
 }
+#cupom .input {
+  margin: 0 auto;
+  width: 575px;
+  border-radius: 20px;
+  border: 4px solid white;
+  background: white;
+}
+#cupom .input input {
+  border-radius: 20px;
+  height: 40px;
+  border: none;
+  width: 540px;
+  outline: none;
+  text-align: center;
+  font-size: 26px;
+}
+#cupom .input:hover, #cupom .input:focus-within {
+  box-shadow: 1px 1px 8px 1px #513252;
+  outline: none;
+}
 
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
