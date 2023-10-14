@@ -158,4 +158,24 @@ footer i {
   color: red;
 }
 
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+#curiosidades h3 {
+  color: #513252;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+#curiosidades h4 {
+  color: #CA4E79;
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+#curiosidades p {
+  margin-top: 5px;
+  color: #513252;
+}
+
 /* Foi implementada a metodologia PARTIAL, onde determinados estilos estarão em folhas CSS em arquivos específicos na pasta ABSTRACT. Cada parte da aplicação/site é então implentada numa partial específica. *//*# sourceMappingURL=style.css.map */
